@@ -1,5 +1,7 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 
+-- CHANGING FILE NAME DOES NOTHING AGAINGST THIS SCRIPT
+
 local Config = {
     Inventory = 'core', -- 'ox' or 'core'
     PermRole = 'admin' -- Set your permission here
